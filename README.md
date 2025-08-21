@@ -8,14 +8,19 @@ Task Manager con interfaz pulida y experiencia visual cuidada. Skeleton loaders,
 
 [![Captura de pantalla de la app](https://github.com/user-attachments/assets/75d6d5be-2203-4367-a1de-bfa27efb2853)](https://edgar-devep.github.io/React-Tasks-Manager/)
 
+<div align="center">
 
 ## 🧠 Características principales
 
-- ✅ Agregar, eliminar y completar tareas
-- 🧹 Validación de inputs para evitar tareas vacías o duplicadas
-- 🧩 Uso de `useLocalStorage` para persistencia de datos
-- 🎨 Estilo visual refinado con animaciones, íconos y skeleton loaders
-- 📦 Despliegue automatizado con Vite y GitHub Pages
+ ✅ Agregar, eliminar y completar tareas
+ 
+🧹 Validación de inputs para evitar tareas vacías o duplicadas
+
+🧩 Uso de `useLocalStorage` para persistencia de datos
+
+🎨 Estilo visual refinado con animaciones, íconos y skeleton loaders
+
+📦 Despliegue automatizado con Vite y GitHub Pages
 
 ---
 
@@ -32,3 +37,4 @@ Task Manager con interfaz pulida y experiencia visual cuidada. Skeleton loaders,
 | GitHub Pages     | Hosting estático para producción           |
 
 ---
+</div>
